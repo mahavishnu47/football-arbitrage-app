@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚽ Football Arbitrage App – Built by [@mahavishnu47](https://github.com/mahavishnu47)
 
 > A public AI-based football arbitrage display system using Streamlit and [OddsAPI](https://the-odds-api.com).  
@@ -72,3 +73,6 @@ Gambling decisions and risks are your responsibility.
 Mahavishnu Essakimuthu
 GitHub: @mahavishnu47
 
+=======
+# football-arbitrage-app
+>>>>>>> bc45b6b6aa04fe84a49ae91c06fe3ea6370ff5ec
