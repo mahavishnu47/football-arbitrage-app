@@ -71,7 +71,3 @@ Gambling decisions and risks are your responsibility.
 🧑‍💻 Developed by
 Mahavishnu Essakimuthu
 GitHub: @mahavishnu47
-
-=======
-# football-arbitrage-app
->>>>>>> bc45b6b6aa04fe84a49ae91c06fe3ea6370ff5ec
