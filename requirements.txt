@@ -1,0 +1,5 @@
+streamlit>=1.35
+requests>=2.31
+python-dotenv>=1.0
+streamlit-javascript
+zoneinfo; python_version < "3.9"
